@@ -1,0 +1,35 @@
+    1  ls
+    2  pwd
+    3  ls /
+    4  cd /
+    5  du -h /
+    6  du -sh /
+    7  sudo du -sh /
+    8  sudo du -h /
+    9  man git
+   10  git --version
+   11  sudo apt install git
+   12  man df
+   13  sudo yum install git
+   14  y
+   15  git --version
+   16  sudo yum install git -y
+   17  du -sh ~/* | sort -hr | head -n5
+   18  du -sh / | sort -hr | head -n5
+   19  sudo du -sh / | sort -hr | head -n5
+   20  sudo du -h / | sort -hr | head -n5
+   21  git --version
+   22  df -h
+   23  cd ~
+   24  git clone https://github.com/Avivush2001/aws-git-practice.git
+   25  ls
+   26  cd awd-git-practice
+   27  cd aws-git-practice
+   28  ls
+   29  nano test.txt
+   30  git add .
+   31  git commit -m "uwu"
+   32  git push
+   33  history
+   34  touch history.txt
+   35  history > history.txt 
